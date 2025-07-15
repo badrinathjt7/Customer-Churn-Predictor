@@ -10,25 +10,17 @@ User-Friendly UI: Simple file upload and interactive data exploration.
 
 Filtering: Option to analyze churn by country (Geography filter).
 
-Exploratory Analytics:
-
-Key customer metrics (counts, averages, churn rate).
+Exploratory Analytics:Key customer metrics (counts, averages, churn rate).
 
 Visualizations of important features: credit score, age, balance, salary, tenure, gender, membership, and churn status.
 
 Side-by-side country and group comparisons.
 
-Demographics & Geography:
+Demographics & Geography:Pie, histogram, and bar plots for age, gender, and regional distribution.
 
-Pie, histogram, and bar plots for age, gender, and regional distribution.
+Financial Analysis:Faceted plots for balance, salary, and credit score.
 
-Financial Analysis:
-
-Faceted plots for balance, salary, and credit score.
-
-Churn Deep Dive:
-
-Churn rate breakdowns by country, age group, credit score, and tenure.
+Churn Deep Dive:Churn rate breakdowns by country, age group, credit score, and tenure.
 
 Predictive Modeling:
 
